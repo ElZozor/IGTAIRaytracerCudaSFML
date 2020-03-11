@@ -1,4 +1,4 @@
-# IGTAI_Raytracer_Cuda-SFML
+# IGTAI Raytracer (Cuda/SFML)
 Projet d'IGTAI implémenté sous CUDA et SFML.
 
 Réalisé sous Visual Studio.
